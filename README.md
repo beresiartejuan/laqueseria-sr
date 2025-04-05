@@ -51,6 +51,13 @@ Este frontend es una base que deberá conectarse a un backend en una fase poster
 - Gestión de pedidos
 - Panel de administración completo
 
+# Rutas
+
+- `/` landing
+- `/login` login
+- `/admin/pos` carrito
+- `/admin/products` administración de productos
+
 ## Créditos
 
 Diseñado y desarrollado para Queso Moderno © 2025.
