@@ -1,0 +1,6 @@
+
+This directory contains images used in the project.
+In production, replace these with actual images:
+1. cheese-hero.jpg - Hero background image
+2. cheese-artisan.jpg - Image of cheese artisan/production
+3. map-placeholder.jpg - Map image for contact section
